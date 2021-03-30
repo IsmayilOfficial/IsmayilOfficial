@@ -9,7 +9,7 @@ Portfolio:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning Material UI
+- 🔭 I’m currently working on Chat app.
 - 🌱 I’m currently learning IOS developing.
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about my projects.
