@@ -8,7 +8,7 @@ e-commerce website - https://bakutrade.netlify.app/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on e-commerce web app on reactjs
+- 🔭 I’m currently learning Material UI
 - 🌱 I’m currently learning IOS developing.
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about my projects.
