@@ -5,7 +5,7 @@
 
 Portfolio:
 - e-commerce website - https://bakutrade.netlify.app/
-- Photo Album which created with Material UI -  https://photoalbumwithmaaterialui.netlify.app/
+- Photo Album (created with Material UI) -  https://photoalbumwithmaaterialui.netlify.app/
 - Chat Application - https://chatapp-2021.netlify.app/
   *credentials: user1 {username- johnwick, password - 1234}
                 user2 {username- harrypotter, password - 1234}
