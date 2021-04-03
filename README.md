@@ -10,6 +10,7 @@ Portfolio:
   *credentials: user1 {username- johnwick, password - 1234}
                 user2 {username- harrypotter, password - 1234}
  - Video Chatting app - https://fm-live.netlify.app/
+ - Group text chat app with firebase backend - https://fmgroupchat.netlify.app/
 
 Here are some ideas to get you started:
 
