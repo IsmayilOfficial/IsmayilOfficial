@@ -12,6 +12,7 @@ Portfolio:
  - Video Chatting app - https://fm-live.netlify.app/
  - Group text chat app with firebase backend - https://fmgroupchat.netlify.app/
  - Fm map application(Google map clone) - https://fm-map.netlify.app/
+ - 3d Card effect - https://3dcard-fm.netlify.app/
 
 Here are some ideas to get you started:
 
