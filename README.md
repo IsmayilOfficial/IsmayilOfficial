@@ -5,7 +5,7 @@
 
 Portfolio:
 
-- Weather app which was created with help of the expo. Cross-platform you can run it on ios, android devices. - https://expo.io/@freeman2020/projects/fm_weather
+- Weather app which was created with help of the expo. This is cross-platform app, you can run it on ios, android devices. - https://expo.io/@freeman2020/projects/fm_weather
 - e-commerce website - https://bakutrade.netlify.app/
 - Photo Album (created with Material UI) -  https://photoalbumwithmaaterialui.netlify.app/
 - Chat Application - https://chatapp-2021.netlify.app/
