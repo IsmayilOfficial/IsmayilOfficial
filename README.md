@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**IsmayilOfficial/IsmayilOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Portfolio:
 
 - Weather app which was created with help of the expo. This is a cross-platform app, you can run it on ios, android devices. - https://expo.io/@freeman2020/projects/fm_weather
